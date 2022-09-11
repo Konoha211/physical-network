@@ -1,0 +1,52 @@
+Rui Liu
+www.finalfantasyxiv.com
+this site is the official website of my favorite video game, i use this site to download this game and look up the tutorial
+
+
+ 1     2 ms     2 ms     4 ms  149.31.128.8 
+New York, Parsons the new school of design
+https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM?si=6091bcfb836a4624
+  2     2 ms     2 ms     2 ms  65f-55f_ngfw_internal.newschool.edu [10.5.5.2] 
+  3     8 ms     4 ms     5 ms  32a-65f_br-vss_v733.newschool.edu [149.31.1.1] 
+  4     5 ms     4 ms     3 ms  te0-1-0-1.rcr24.jfk01.atlas.cogentco.com [38.122.9.25] 
+New York, New York City Hall
+https://en.wikipedia.org/wiki/New_York_City_Hall
+  5     9 ms     4 ms     4 ms  be2897.ccr42.jfk02.atlas.cogentco.com [154.54.84.213] 
+  6   204 ms   204 ms   199 ms  be2890.ccr22.cle04.atlas.cogentco.com [154.54.82.245] 
+Cleveland, sherwin williams
+https://www.sherwin-williams.com/
+https://open.spotify.com/episode/7LRC6C8ZfMxeEca4giqHGW?si=wDTS6EpMTM-or6BSu0dnHw
+  7   280 ms   203 ms   199 ms  be2718.ccr42.ord01.atlas.cogentco.com [154.54.7.129] 
+Chicago, Grant Park
+Buckingham Fountain
+  8   246 ms   202 ms   201 ms  be2832.ccr22.mci01.atlas.cogentco.com [154.54.44.169] 
+Kansas City, Oak Street East 12 Street
+jackson county courthouse
+https://www.kansascity.com/
+  9   191 ms   201 ms   303 ms  be3036.ccr22.den01.atlas.cogentco.com [154.54.31.89] 
+Denver,Colorado State Capitol
+https://cnhp.colostate.edu/rareplants/
+ 10   194 ms   202 ms   204 ms  be3038.ccr32.slc01.atlas.cogentco.com [154.54.42.97] 
+Salt Lake City, Beam’s Route
+Apollo Burger
+ 11   284 ms   201 ms   202 ms  be3110.ccr22.sfo01.atlas.cogentco.com [154.54.44.141] 
+San Francisco, South Van Ness Ave and Market Street
+The Queen's Ball: A Bridgerton Experience SF
+ 12   285 ms   201 ms   201 ms  be3670.ccr41.sjc03.atlas.cogentco.com [154.54.43.14] 
+San Jose, North Maket Ave, Devine St
+https://open.spotify.com/track/3ADQ9jGCJ6MfSbIZqtbVj2?si=1d6278077a934ac7
+ 13   190 ms   202 ms   201 ms  be3696.ccr71.tyo01.atlas.cogentco.com [154.54.86.138] 
+Shijuku Tokyo, 东京都展望厅
+https://open.spotify.com/track/1dYs5KPxvsFv9DEDamYdg8?si=4a1bd42794214c25
+ 14   187 ms   200 ms   201 ms  be3074.rcr51.b060372-1.tyo01.atlas.cogentco.com [154.54.2.178]
+ 15   180 ms   224 ms   199 ms  square-enix.demarc.cogentco.com [154.18.1.146] 
+London, coutts bank
+https://www.britannica.com/biography/Elizabeth-II
+ 16   286 ms   201 ms   199 ms  61.195.56.165 
+Shinjuku Tokyo,东京都展望厅
+https://www.youtube.com/watch?v=LWQ0uNafWyA
+ 17   279 ms   200 ms   200 ms  219.117.144.78 
+ 18   192 ms   175 ms   227 ms  219.117.144.57 
+ 19   215 ms   202 ms   201 ms  219.117.146.133 
+ 20   190 ms   201 ms   200 ms  219.117.146.102
+
