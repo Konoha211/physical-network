@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="base.css">
+</head>
+<body>
+
+
+<div class="header" id="myHeader">
+  <h1>Collage</h1>
+</div>
+
+
+<div class="row"> 
+  <div class="column">
+    <img src="image/image_1.jpg" style="width:100%" value="PLAY" onclick="play()">
+    <audio id="audio" src="audio/shijuku.mp3" ></audio>
+    <img src="image/image_3.jpg" style="width:100%">
+    <img src="image/image_5.jpg" style="width:100%">
+    <img src="image/image_7.jpg" style="width:100%">
+    <img src="image/image_9.jpg" style="width:100%">
+    <img src="image/image_11.jpg" style="width:100%">
+    <img src="image/image_13.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="image/image_2.jpg" style="width:100%">
+    <img src="image/image_4.jpg" style="width:100%">
+    <img src="image/image_6.jpg" style="width:100%">
+    <img src="image/image_8.jpg" style="width:100%">
+    <img src="image/image_10.jpg" style="width:100%">
+    <img src="image/image_12.jpg" style="width:100%">
+    <img src="image/image_14.jpg" style="width:100%">
+  </div>  
+</div>
+
+<script>
+
+var elements = document.getElementsByClassName("column");
+
+
+var i;
+
+
+function two() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "50%";  // IE10
+    elements[i].style.flex = "50%";
+  }
+}
+
+  function play(){
+       var audio = document.getElementById("audio");
+       audio.play();
+                 }
+
+</script>
+
+</body>
+</html>
